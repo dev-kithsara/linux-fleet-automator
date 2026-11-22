@@ -1,0 +1,4 @@
+# Target Linux Fleet Inventory
+web01
+web02
+web03
